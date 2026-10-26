@@ -11,7 +11,7 @@
 
 Send, ask, and hand off work to Scout agents from any [Hermes Agent](https://github.com/NousResearch/hermes-agent) chat session.
 
-[Install](#install) · [First ask](#first-ask) · [OpenScout](https://openscout.app) · [All integrations](https://github.com/oscout)
+[Install](#install) · [First ask](#first-ask) · [OpenScout](https://openscout.app) · [All integrations](https://github.com/openscout-app)
 
 <!-- scout-illustration:start -->
 <p align="center">
@@ -28,7 +28,7 @@ Send, ask, and hand off work to Scout agents from any [Hermes Agent](https://git
 From GitHub:
 
 ```bash
-hermes plugins install oscout/hermes-scout
+hermes plugins install openscout-app/hermes-scout
 ```
 
 As a directory plugin (recommended for development):
