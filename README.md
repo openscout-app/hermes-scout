@@ -31,10 +31,11 @@ From GitHub:
 hermes plugins install openscout-app/hermes-scout
 ```
 
-As a directory plugin (recommended for development):
+As a directory plugin (recommended for development), from your checkout of this
+repository:
 
 ```bash
-ln -s ~/dev/hermes-scout ~/.hermes/plugins/scout
+ln -s "$PWD" ~/.hermes/plugins/scout
 hermes tools list | grep scout
 ```
 
